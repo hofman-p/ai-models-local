@@ -31,3 +31,4 @@ Just a quick reminder for me for the things I did to make it work along the way 
 - I used Windows 11 and I own a RTX 4090, so run these scripts at your own risk if you have a lower GPU
 - Depending on which models you wanna test, you might need a lot of space on your disk
 - If you wanna run it with on Mac, try CPU version of Pytorch and remove the CUDA part, also apparently BitsAndBytes is currently in WIP state for Mac so you might need another solution
+- It's a very little project I had on my PC. I updated it a bit and tried new models here and there on my own, for personal purposes. I also didn't want to forget the steps I did to make everything work haha. I'm working on some of the techs on other personal project, Idk if I'll put them on Github. Anyway I thought it'd be nice to share this little one!
